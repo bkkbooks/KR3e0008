@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨可吐第十九大法春宜吐凡用吐湯中病即止不必盡劑也病胸上諸實胸中鬱鬱而痛不能食欲使人按之而反有涎唾下利日十餘行其脈反遲寸口脈微滑此可吐之吐之利則止宿食在上脘者當吐之病人手足厥冷脈乍結以客氣在胸中心下滿而煩欲食不能食者病在胸中當吐之
+  hash: sha256:7e0a4cc74271e0284163e28fdc51c6830d3f22fd9645362c87fbbf0d3b5f5f35
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_019-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:eb70099d70132a5205cd319e938d26129bd078a7fda8be30876a4e0bf1277cd2

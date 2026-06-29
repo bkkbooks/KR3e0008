@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨可發汗證并治第十六大法春夏宜發汗凡發汗欲令手足俱周時出以漐漐然一時間許亦佳不可令如水流漓若病不解當重發汗汗多必亡陽陽虛不得重發汗也凡服湯發汗中病便止不必盡劑凡云可發汗無湯者丸散亦可用要以汗出為解然不如湯隨證良驗夫病脈浮大問病者言但便硬爾設利者為大逆硬為實汗出而解何以故脈浮當以汗解下利後身疼痛清便自調者急當救表宜桂枝湯發汗
+  hash: sha256:089542aea620d7ff11bfe5189415d2c526a9beda23eb8557c38c20f109468a15
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_016-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:3b2aebf94ab2089652f0eff1a74ed7b9e79c919da6365994f1703db4fe64001e

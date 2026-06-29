@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨少陽病脈證并治第九少陽之病口苦咽乾目眩也少陽中風兩耳無所聞目赤胸中滿而煩者不可吐下吐下則悸而驚傷寒脈弦細頭痛發熱者屬少陽少陽不可發汗發汗則讝語此屬胃胃和則愈胃不和則煩而悸本太陽病不解轉入少陽者脅下硬滿乾嘔不能食往來寒熱尚未吐下脈沉緊者與小柴胡湯若已吐下發汗溫鍼讝語柴胡湯證罷此為壞病知犯何逆以法治之三陽合病脈浮大上關上但欲眠睡目合則汗傷寒六七日無大熱其人燥煩者此為陽去入陰故也傷寒三日三陽為盡三陰當受邪其人反能食而不嘔此為三陰不受邪也傷寒三日少陽脈小者欲已也少陽病欲解時從寅至辰上
+  hash: sha256:8639eb2b37e2b259ae210f9893d19a7f7ada490590d0f5c7f56d097c22a8b4b4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_009-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:ac55764b4717b10f576ac617ef8160ab3f18d706321438125eaa138835f9b306

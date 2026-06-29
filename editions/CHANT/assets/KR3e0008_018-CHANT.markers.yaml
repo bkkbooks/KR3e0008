@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/CHANT/v1/markers/18
+seq: 18
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: 《, id: KR3e0008_CHANT_018-bkkpn1}
+  - {type: punctuation, offset: 7, content: 》, id: KR3e0008_CHANT_018-bkkpn2}
+  - {type: xml-element, offset: 7, content: '', id: KR3e0008_CHANT_018-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3e0008_CHANT_018-1a.1}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3e0008_CHANT_018-1a.2}
+  - {type: punctuation, offset: 10, content: ，, id: KR3e0008_CHANT_018-bkkpn3}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3e0008_CHANT_018-1a.3}
+  - {type: punctuation, offset: 12, content: 《, id: KR3e0008_CHANT_018-bkkpn4}
+  - {type: punctuation, offset: 15, content: 》, id: KR3e0008_CHANT_018-bkkpn5}
+  - {type: punctuation, offset: 16, content: 。, id: KR3e0008_CHANT_018-bkkpn6}
+  - {type: xml-element, offset: 16, content: '', id: KR3e0008_CHANT_018-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:f7e462ed797bd4f3e5e4d84ed910615591ab06775cb6b83a0a4c3dca5fe7f476

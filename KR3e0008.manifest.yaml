@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR3e0008/v1
+canonical_location: https://kanripo.org/bkk/KR3e0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒論
+  identifiers:
+    krp: KR3e0008
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3e
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3e0008_001.yaml, hash: 'sha256:4d3cbd004f4e4fc81377166a36460e0bfaa0af8cecc707e811bc70c86770314f'}
+  - {seq: 2, filename: KR3e0008_002.yaml, hash: 'sha256:ddb5fd87a7517eb1f74bf04845cb48a3c0f94b63c05c1ba8acdca69512d28213'}
+  - {seq: 3, filename: KR3e0008_003.yaml, hash: 'sha256:9ba1045dc66c6e93c584f4bcec8fb643b5fbf420f9bfc97b724a565044c0b9bd'}
+  - {seq: 4, filename: KR3e0008_004.yaml, hash: 'sha256:1ea6aa42c6141c1d15f4860ee01ce81e4cb5a268fcd3ae043b3ef148c47ab389'}
+  - {seq: 5, filename: KR3e0008_005.yaml, hash: 'sha256:2569e2baa2bccc323c33aa13957659737d628159070385f4ae3e8121cdb4f31e'}
+  - {seq: 6, filename: KR3e0008_006.yaml, hash: 'sha256:78094a048e8a6970bc371f19e5216b42803189cd0fcb45845f51b7cab6889f6b'}
+  - {seq: 7, filename: KR3e0008_007.yaml, hash: 'sha256:c47b36a3ba8d76fa06ac3ff083440fcc5dcf5a643d31ccb5f756a333f5df92dd'}
+  - {seq: 8, filename: KR3e0008_008.yaml, hash: 'sha256:68560cbb2705bf651f1ac7e17f36fd6d2578b02a57fb6d38538a060a30842505'}
+  - {seq: 9, filename: KR3e0008_009.yaml, hash: 'sha256:8babdbe41d0ec9115de3eeeef31ebb294bd70e33113fbe327d0ddd1e62ed86d5'}
+  - {seq: 10, filename: KR3e0008_010.yaml, hash: 'sha256:45d053fd8f87d8f8347ac24ed573c6f48be9a26a6a53950a59d287c6a2668b89'}
+  - {seq: 11, filename: KR3e0008_011.yaml, hash: 'sha256:bce895c0dafcfd8e255be28af4d77dc735002dc741d958cc4c5cc47c2c02dca5'}
+  - {seq: 12, filename: KR3e0008_012.yaml, hash: 'sha256:fcce2fc6c72efb4f9b891dc362c04f2c88fa4e894acabc70cad9fa6fd0780514'}
+  - {seq: 13, filename: KR3e0008_013.yaml, hash: 'sha256:a193f8f115b8f82d41a2a914148310d50a49842e1fba0daef071f41a7b5da3c5'}
+  - {seq: 14, filename: KR3e0008_014.yaml, hash: 'sha256:4a6087da873592d5107d2be9c8b2d00727020c1a40568ba3733aae647ce60cf3'}
+  - {seq: 15, filename: KR3e0008_015.yaml, hash: 'sha256:cf4794f04e2a80269b1f03481a199ef3a0c4fa747901615cd13952a190cf77e3'}
+  - {seq: 16, filename: KR3e0008_016.yaml, hash: 'sha256:3b2aebf94ab2089652f0eff1a74ed7b9e79c919da6365994f1703db4fe64001e'}
+  - {seq: 17, filename: KR3e0008_017.yaml, hash: 'sha256:43a0ed2118485c4fab06f81b9c6b569e78f998a75b2405c00bcee89b142294e8'}
+  - {seq: 18, filename: KR3e0008_018.yaml, hash: 'sha256:3468f34bf6ebebae980683f2e547f44358b9d417d160ef860381a9f604b9c03c'}
+  - {seq: 19, filename: KR3e0008_019.yaml, hash: 'sha256:eb70099d70132a5205cd319e938d26129bd078a7fda8be30876a4e0bf1277cd2'}
+  - {seq: 20, filename: KR3e0008_020.yaml, hash: 'sha256:f69cae04bda8c828fe9cf85480bbc4074d1224b602af0d96b8d772317b93b194'}
+  - {seq: 21, filename: KR3e0008_021.yaml, hash: 'sha256:fbdf2da43eb5f399e6752b9af0f6f029da28db12c7a8414e7b36c97e00c638ef'}
+  - {seq: 22, filename: KR3e0008_022.yaml, hash: 'sha256:3891a56af4ddc1bd847839e089ac161b2189aa49ab1904f0149febddbe30a879'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3e0008_001.markers.yaml, hash: 'sha256:9f972502c1a2fd88e3d93955fbb4e7bf93289b65bf41f3fbb29e599a19d817a9'}
+  - {seq: 2, role: markers, filename: assets/KR3e0008_002.markers.yaml, hash: 'sha256:1c41aeff2ec8d5ef31ade3c70665d5d8f32658ee83524e85fc971444d11cdfe9'}
+  - {seq: 3, role: markers, filename: assets/KR3e0008_003.markers.yaml, hash: 'sha256:b18c733a0ab569595f7d57b747c302d0507670f4a919c16e7ff8aa1088c19e52'}
+  - {seq: 5, role: markers, filename: assets/KR3e0008_005.markers.yaml, hash: 'sha256:be511a58e31de3cd4bd4acd52dc4d2d166b59d5b4ddc72bc8f4470a9c6430323'}
+  - {seq: 6, role: markers, filename: assets/KR3e0008_006.markers.yaml, hash: 'sha256:53e8bd96c79b8ebb244bcc2a250d5c775605d61792f7aff7497d961b1d6b2db0'}
+  - {seq: 7, role: markers, filename: assets/KR3e0008_007.markers.yaml, hash: 'sha256:9c79a2d48bf58937c7dfbc37d99cadb26111c232a1c931cf8fc07ba927ab679e'}
+  - {seq: 8, role: markers, filename: assets/KR3e0008_008.markers.yaml, hash: 'sha256:281b41faf36c168456571995cb1b67df64c9b4cb4fa81ac83fe80f3e4a6be571'}
+  - {seq: 9, role: markers, filename: assets/KR3e0008_009.markers.yaml, hash: 'sha256:09cdb833a781e6c569ee3e62d366b081eee4c9d71d9ae83bc00b572710def3da'}
+  - {seq: 11, role: markers, filename: assets/KR3e0008_011.markers.yaml, hash: 'sha256:033b1fb7800de83ea9b40007b3c8f346a7a7c918df86c08895086d8752c05dc9'}
+  - {seq: 12, role: markers, filename: assets/KR3e0008_012.markers.yaml, hash: 'sha256:c8558e730c650da68eb39e9d700c099ca3276223e6cfa65636af97e123d0e0c0'}
+  - {seq: 13, role: markers, filename: assets/KR3e0008_013.markers.yaml, hash: 'sha256:008f109ed21ad68e1ebb58b7a9c109666557376492d0679e125b23f1f0a39c5b'}
+  - {seq: 15, role: markers, filename: assets/KR3e0008_015.markers.yaml, hash: 'sha256:c5dad6831d9dff88abd01c44df444f132c0a6966eb3ad5967c485de3543abcce'}
+  - {seq: 20, role: markers, filename: assets/KR3e0008_020.markers.yaml, hash: 'sha256:ba20c5ae9ee3a2b47add735ae26b70b3494d1861d81db96d97e6cb566c013ed4'}
+  - {seq: 22, role: markers, filename: assets/KR3e0008_022.markers.yaml, hash: 'sha256:9004d6f67ddeafe80ec88b5846c12dc2dca0db095d1de3f6e275d8b62f979483'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3e0008_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2258
+  label: 辨脈法第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0008_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 2394
+  label: 平脈法第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3e0008_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 2483
+  label: 傷寒例第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3e0008_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 521
+  label: 辨痓濕暍脈證第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3e0008_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 1685
+  label: 辨太陽病脈證并治法上第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0008_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 5831
+  label: 辨太陽病脈證并治第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3e0008_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 3633
+  label: 辨太陽脈證并治下第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3e0008_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 3672
+  label: 辨陽明脈證并治第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3e0008_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 241
+  label: 辨少陽病脈證并治第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3e0008_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 231
+  label: 辨太陰脈證并治第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3e0008_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 2158
+  label: 辨少陰病脈證并治第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3e0008_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1956
+  label: 辨厥陰病脈證并治第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3e0008_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 556
+  label: 辨霍亂病脈證并治第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3e0008_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 504
+  label: 辨陰陽易差後勞復病證并治第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3e0008_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 498
+  label: 辨不可發汗病脈證并治第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3e0008_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 162
+  label: 辨可發汗證并治第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3e0008_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 56
+  label: 辨發汗後病脈證并治第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3e0008_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 16
+  label: 辨不可吐第十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3e0008_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 114
+  label: 辨可吐第十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3e0008_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 1188
+  label: 辨不可下病脈證并治第二十
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3e0008_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 249
+  label: 辨可下病脈證并治第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3e0008_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 1304
+  label: 辨發汗吐下後脈證并治第二十二
+  type: section
+  level: 1
+hash: sha256:e0d8700302acf98966aa6e1dea54b1e941df18c237704710ef6abb2aeda3b1cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

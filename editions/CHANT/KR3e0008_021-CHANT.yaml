@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨可下病脈證并治第二十一大法秋宜下凡服下藥用湯勝丸中病即止不必盡劑也下利三部脈皆平按之心下硬者急下之宜大承氣湯下利脈遲而滑者內實也利未欲止當下之宜大承氣湯問曰人病有宿食何以別之師曰寸口脈浮而大按之反澀尺中亦微而澀故知有宿食當下之宜大承氣湯下利不欲食者以有宿食故也當宜下之與大承氣湯下利差後至其年月日復發者以病不盡故也當下之宜大承氣湯下利脈反滑當有所去下之乃愈宜大承氣湯病腹中滿痛者此為實也當下之宜大承氣湯傷寒後脈沉沉者內實也下解之宜大柴胡湯脈雙弦而遲者必心下硬脈大而緊者陽中有陰也可以下之宜大承氣湯
+  hash: sha256:cd1fe71b894bf71f98701cb258235e22c1785c1a4a12da4614d100fb9ee5f3d7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_021-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:fbdf2da43eb5f399e6752b9af0f6f029da28db12c7a8414e7b36c97e00c638ef

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨發汗後病脈證并治第十七發汗多亡陽讝語者不可下與柴胡桂枝湯和其榮衛以通津液後自愈此一卷第十七篇凡三十一證前有詳說
+  hash: sha256:02c82540646445b4e2d9dfd09ab339eb11be7342c39706ba87481827de207b91
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_017-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:43a0ed2118485c4fab06f81b9c6b569e78f998a75b2405c00bcee89b142294e8

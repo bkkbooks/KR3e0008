@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0008/chant/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨太陰脈證并治第十太陰之為病腹滿而吐食不下自利益甚時腹自痛若下之必胸下結硬太陰中風四肢煩疼陽微陰澀而長者為欲愈太陰病欲解時從亥至丑上太陰病脈浮者可發汗宜桂枝湯自利不渴者屬太陰以其藏有寒故也當溫之宜服四逆輩傷寒脈浮而緩手足自溫者繫在太陰太陰當發身黃若小便自利者不能發黃至七八日雖暴煩下利日十餘行必自止以脾家實腐穢當去故也本太陽病醫反下之因而腹滿時痛者屬太陰也桂枝加芍藥湯主之大實痛者桂枝加大黃湯主之太陰為病脈弱其人續自便利設當行大黃芍藥者宜減之以其人胃氣弱易動故也
+  hash: sha256:dd646c08251830c989120e024ee5cfa9e85aba8e6102e1411f1862b6a47385c2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0008_CHANT_010-1a.1-h}
+metadata:
+  title: 傷寒論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0008.xml
+hash: sha256:45d053fd8f87d8f8347ac24ed573c6f48be9a26a6a53950a59d287c6a2668b89

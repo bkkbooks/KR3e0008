@@ -1,0 +1,158 @@
+canonical_identifier: bkk:krp/KR3e0008/bkk/v1/markers/10
+seq: 10
+markers:
+  front:
+  - {type: variant, offset: 0, length: 4, content: 辨太陰脈, SBCK: 刻傷寒論序新安篁南江瓘撰序曰毉自軒岐之學不傳惟素難二書又多舛缺遺文奥㫖代寡玄叅末學昧於原本任疑用獨而經乃樊亂逮後漢張長沙氏始因素問􅀬論廣伊尹湯液肆爲論􅀃􅀤其疑義而經復一明旣而撰次於王叔和註釋於成無巳厥後龎朱韓許之流因亦互有開􅀤提綱掲要無越乎􅄍汗下温四法而已盖一}
+  - {type: page-break, offset: 0, content: '', id: KR3e0008_SBCK_010-1a}
+  - {type: variant, offset: 0, length: 4, content: 辨太陰脈, krp: 刻傷寒論序新安篁南江瓘撰序曰毉自軒岐之學不傳惟素難二書又多舛缺遺文奥㫖代寡玄叅末學昧於原本任疑用獨而經乃樊亂逮後漢張長沙氏始因素問熱論廣伊尹湯液肆爲論說發其疑義而經復一明旣而撰次於王叔和註釋於成無巳厥後龎朱韓許之流因亦互有開發提綱掲要無越乎吐汗下温四法而已盖一}
+  body:
+  - {type: punctuation, offset: 0, content: 《, id: KR3e0008_CHANT_010-bkkpn1}
+  - {type: variant, offset: 5, length: 6, content: 并治第十太陰, SBCK: 一方萬選萬中􅅆生起􅂮千載合符陶隱居稱爲群方}
+  - {type: page-break, offset: 5, content: '', id: KR3e0008_SBCK_010-1b}
+  - {type: variant, offset: 5, length: 6, content: 并治第十太陰, krp: 一方萬選萬中廻生起死千載合符陶隱居稱爲群方}
+  - {type: punctuation, offset: 9, content: 》, id: KR3e0008_CHANT_010-bkkpn2}
+  - {type: xml-element, offset: 9, content: '', id: KR3e0008_CHANT_010-bkkxmlele1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3e0008_CHANT_010-1a.1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3e0008_CHANT_010-1a.2}
+  - {type: variant, offset: 12, length: 18, content: 為病腹滿而吐食不下自利益甚時腹自痛若, SBCK: 祖孫真人嘆其特有神功豈無徵哉然方􅁟異冝古今殊運隂陽虚實之交錯其候至微發汗􅄍}
+  - {type: variant, offset: 12, length: 5, content: 為病腹滿而, krp: 祖孫真人嘆其特有神功豈無徵哉然方土異冝古今殊運隂陽虚實之交錯其候至微發汗}
+  - {type: punctuation, offset: 14, content: ，, id: KR3e0008_CHANT_010-bkkpn3}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3e0008_CHANT_010-1a.3}
+  - {type: punctuation, offset: 18, content: ，, id: KR3e0008_CHANT_010-bkkpn4}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR3e0008_CHANT_010-1a.4}
+  - {type: variant, offset: 18, length: 12, content: 食不下自利益甚時腹自痛若, krp: ''}
+  - {type: punctuation, offset: 21, content: ，, id: KR3e0008_CHANT_010-bkkpn5}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3e0008_CHANT_010-1a.5}
+  - {type: punctuation, offset: 25, content: ，, id: KR3e0008_CHANT_010-bkkpn6}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3e0008_CHANT_010-1a.6}
+  - {type: punctuation, offset: 29, content: 。, id: KR3e0008_CHANT_010-bkkpn7}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3e0008_CHANT_010-1a.7}
+  - {type: punctuation, offset: 32, content: ，, id: KR3e0008_CHANT_010-bkkpn8}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3e0008_CHANT_010-1a.8}
+  - {type: variant, offset: 32, length: 14, content: 必胸下結硬太陰中風四肢煩疼陽, SBCK: 相反其禍至速兼以庸工固滯迷誤弗省致}
+  - {type: variant, offset: 32, length: 14, content: 必胸下結硬太陰中風四肢煩疼陽, krp: 相反其禍至速兼以庸工固滯迷誤弗省致}
+  - {type: punctuation, offset: 37, content: 。, id: KR3e0008_CHANT_010-bkkpn9}
+  - {type: xml-element, offset: 37, content: '', id: KR3e0008_CHANT_010-bkkxmlele2}
+  - {type: xml-element, offset: 37, content: '', id: KR3e0008_CHANT_010-bkkxmlele3}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3e0008_CHANT_010-1a.9}
+  - {type: punctuation, offset: 41, content: ，, id: KR3e0008_CHANT_010-bkkpn10}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR3e0008_CHANT_010-1a.10}
+  - {type: punctuation, offset: 45, content: ，, id: KR3e0008_CHANT_010-bkkpn11}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3e0008_CHANT_010-1a.11}
+  - {type: variant, offset: 47, length: 2, content: 陰澀, SBCK: 痾成膏肓之變沉痼絶蘇起之望有由然矣大都此書條貫雖明詞㫖雅奥時俗難入具眼㡬何故毉門罕讀鬻者莫售矧張經王傳又徃徃反覆後先魯魚相􅄂板本漫缺好古者致憾于斯嗟乎脉訣岀}
+  - {type: variant, offset: 47, length: 2, content: 陰澀, krp: 痾成膏肓之變沉痼絶蘇起之望有由然矣大都此書條貫雖明詞㫖雅奥時俗難入具眼㡬何故毉門罕讀鬻者莫售矧張經王傳又徃徃反覆後先魯魚相雜板本漫缺好古者致憾于斯嗟乎脉訣岀}
+  - {type: variant, offset: 50, length: 52, content: 長者為欲愈太陰病欲解時從亥至丑上太陰病脈浮者可發汗宜桂枝湯自利不渴者屬太陰以其藏有寒故也當溫之宜服四逆輩, SBCK: 脉經隱百問行而}
+  - {type: variant, offset: 50, length: 52, content: 長者為欲愈太陰病欲解時從亥至丑上太陰病脈浮者可發汗宜桂枝湯自利不渴者屬太陰以其藏有寒故也當溫之宜服四逆輩, krp: 脉經隱百問行而}
+  - {type: punctuation, offset: 52, content: ，, id: KR3e0008_CHANT_010-bkkpn12}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR3e0008_CHANT_010-1a.12}
+  - {type: punctuation, offset: 55, content: 。, id: KR3e0008_CHANT_010-bkkpn13}
+  - {type: xml-element, offset: 55, content: '', id: KR3e0008_CHANT_010-bkkxmlele4}
+  - {type: xml-element, offset: 55, content: '', id: KR3e0008_CHANT_010-bkkxmlele5}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3e0008_CHANT_010-2a.1}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3e0008_CHANT_010-2a.2}
+  - {type: punctuation, offset: 58, content: ，, id: KR3e0008_CHANT_010-bkkpn14}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR3e0008_CHANT_010-2a.3}
+  - {type: punctuation, offset: 61, content: ，, id: KR3e0008_CHANT_010-bkkpn15}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3e0008_CHANT_010-2a.4}
+  - {type: punctuation, offset: 66, content: 。, id: KR3e0008_CHANT_010-bkkpn16}
+  - {type: xml-element, offset: 66, content: '', id: KR3e0008_CHANT_010-bkkxmlele6}
+  - {type: xml-element, offset: 66, content: '', id: KR3e0008_CHANT_010-bkkxmlele7}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR3e0008_CHANT_010-2a.5}
+  - {type: punctuation, offset: 69, content: ，, id: KR3e0008_CHANT_010-bkkpn17}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3e0008_CHANT_010-2a.6}
+  - {type: punctuation, offset: 72, content: ，, id: KR3e0008_CHANT_010-bkkpn18}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3e0008_CHANT_010-2a.7}
+  - {type: punctuation, offset: 75, content: ，, id: KR3e0008_CHANT_010-bkkpn19}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3e0008_CHANT_010-2a.8}
+  - {type: punctuation, offset: 79, content: 。, id: KR3e0008_CHANT_010-bkkpn20}
+  - {type: xml-element, offset: 79, content: '', id: KR3e0008_CHANT_010-bkkxmlele8}
+  - {type: xml-element, offset: 79, content: '', id: KR3e0008_CHANT_010-bkkxmlele9}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3e0008_CHANT_010-3a.1}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3e0008_CHANT_010-3a.2}
+  - {type: punctuation, offset: 84, content: ，, id: KR3e0008_CHANT_010-bkkpn21}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3e0008_CHANT_010-3a.3}
+  - {type: punctuation, offset: 87, content: ，, id: KR3e0008_CHANT_010-bkkpn22}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3e0008_CHANT_010-3a.4}
+  - {type: punctuation, offset: 94, content: 。, id: KR3e0008_CHANT_010-bkkpn23}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3e0008_CHANT_010-3a.5}
+  - {type: punctuation, offset: 97, content: ，, id: KR3e0008_CHANT_010-bkkpn24}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3e0008_CHANT_010-3a.6}
+  - {type: punctuation, offset: 102, content: 。, id: KR3e0008_CHANT_010-bkkpn25}
+  - {type: xml-element, offset: 102, content: '', id: KR3e0008_CHANT_010-bkkxmlele10}
+  - {type: xml-element, offset: 102, content: '', id: KR3e0008_CHANT_010-bkkxmlele11}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3e0008_CHANT_010-3a.7}
+  - {type: punctuation, offset: 104, content: ，, id: KR3e0008_CHANT_010-bkkpn26}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3e0008_CHANT_010-3a.8}
+  - {type: variant, offset: 104, length: 2, content: 脈浮, SBCK: 論乖譬之俗儒專誦時文}
+  - {type: page-break, offset: 104, content: '', id: KR3e0008_SBCK_010-2a}
+  - {type: variant, offset: 104, length: 2, content: 脈浮, krp: 論乖譬之俗儒專誦時文}
+  - {type: variant, offset: 107, length: 5, content: 緩手足自溫, SBCK: 昧經傳其失均也汪子希􅀃氏以慱雅名家􅁣俗學之惛迷愍烝民之夭札岀其家藏善本視汪處敬氏三復讐校乃命入梓而問序於余余故以多病好毉而未能也然躭味仲景之論有年矣輙援古炤今遡其流委于卷後且以嘉二子之有功於長沙也學}
+  - {type: variant, offset: 107, length: 5, content: 緩手足自溫, krp: 昧經傳其失均也汪子希說氏以慱雅名家慨俗學之惛迷愍烝民之夭札岀其家藏善本視汪處敬氏三復讐校乃命入梓而問序於余余故以多病好毉而未能也然躭味仲景之論有年矣輙援古炤今遡其流委于卷後且以嘉二子之有功於長沙也學}
+  - {type: punctuation, offset: 108, content: ，, id: KR3e0008_CHANT_010-bkkpn27}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3e0008_CHANT_010-3a.9}
+  - {type: punctuation, offset: 113, content: ，, id: KR3e0008_CHANT_010-bkkpn28}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3e0008_CHANT_010-3a.10}
+  - {type: variant, offset: 113, length: 6, content: 繫在太陰太陰, SBCK: 誠能潜精斯籍討其指歸斯可以凌駕前賢仁壽}
+  - {type: variant, offset: 113, length: 6, content: 繫在太陰太陰, krp: 誠能潜精斯籍討其指歸斯可以凌駕前賢仁壽}
+  - {type: punctuation, offset: 117, content: 。, id: KR3e0008_CHANT_010-bkkpn29}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR3e0008_CHANT_010-3a.11}
+  - {type: variant, offset: 120, length: 46, content: 發身黃若小便自利者不能發黃至七八日雖暴煩下利日十餘行必自止以脾家實腐穢當去故也本太陽病醫反下, SBCK: 代矣嘉靖乙巳}
+  - {type: variant, offset: 120, length: 46, content: 發身黃若小便自利者不能發黃至七八日雖暴煩下利日十餘行必自止以脾家實腐穢當去故也本太陽病醫反下, krp: 代矣嘉靖乙巳}
+  - {type: punctuation, offset: 123, content: ；, id: KR3e0008_CHANT_010-bkkpn30}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3e0008_CHANT_010-3a.12}
+  - {type: punctuation, offset: 129, content: ，, id: KR3e0008_CHANT_010-bkkpn31}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR3e0008_CHANT_010-3a.13}
+  - {type: punctuation, offset: 133, content: 。, id: KR3e0008_CHANT_010-bkkpn32}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR3e0008_CHANT_010-3a.14}
+  - {type: punctuation, offset: 137, content: ，, id: KR3e0008_CHANT_010-bkkpn33}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR3e0008_CHANT_010-3a.15}
+  - {type: punctuation, offset: 146, content: ，, id: KR3e0008_CHANT_010-bkkpn34}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3e0008_CHANT_010-3a.16}
+  - {type: punctuation, offset: 149, content: ，, id: KR3e0008_CHANT_010-bkkpn35}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR3e0008_CHANT_010-3a.17}
+  - {type: punctuation, offset: 153, content: ，, id: KR3e0008_CHANT_010-bkkpn36}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3e0008_CHANT_010-3a.18}
+  - {type: punctuation, offset: 159, content: 。, id: KR3e0008_CHANT_010-bkkpn37}
+  - {type: xml-element, offset: 159, content: '', id: KR3e0008_CHANT_010-bkkxmlele12}
+  - {type: xml-element, offset: 159, content: '', id: KR3e0008_CHANT_010-bkkxmlele13}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3e0008_CHANT_010-4a.1}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3e0008_CHANT_010-4a.2}
+  - {type: punctuation, offset: 163, content: ，, id: KR3e0008_CHANT_010-bkkpn38}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR3e0008_CHANT_010-4a.3}
+  - {type: punctuation, offset: 167, content: ，, id: KR3e0008_CHANT_010-bkkpn39}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR3e0008_CHANT_010-4a.4}
+  - {type: variant, offset: 167, length: 64, content: 因而腹滿時痛者屬太陰也桂枝加芍藥湯主之大實痛者桂枝加大黃湯主之太陰為病脈弱其人續自便利設當行大黃芍藥者宜減之以其人胃氣弱易動故也, SBCK: 吉}
+  - {type: variant, offset: 167, length: 64, content: 因而腹滿時痛者屬太陰也桂枝加芍藥湯主之大實痛者桂枝加大黃湯主之太陰為病脈弱其人續自便利設當行大黃芍藥者宜減之以其人胃氣弱易動故也, krp: 吉}
+  - {type: punctuation, offset: 174, content: ，, id: KR3e0008_CHANT_010-bkkpn40}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3e0008_CHANT_010-4a.5}
+  - {type: punctuation, offset: 178, content: ，, id: KR3e0008_CHANT_010-bkkpn41}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR3e0008_CHANT_010-4a.6}
+  - {type: punctuation, offset: 186, content: 。, id: KR3e0008_CHANT_010-bkkpn42}
+  - {type: xml-element, offset: 186, content: '', id: KR3e0008_CHANT_010-bkkxmlele14}
+  - {type: xml-element, offset: 186, content: '', id: KR3e0008_CHANT_010-bkkxmlele15}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR3e0008_CHANT_010-4a.7}
+  - {type: punctuation, offset: 190, content: ，, id: KR3e0008_CHANT_010-bkkpn43}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR3e0008_CHANT_010-4a.8}
+  - {type: punctuation, offset: 198, content: 。, id: KR3e0008_CHANT_010-bkkpn44}
+  - {type: xml-element, offset: 198, content: '', id: KR3e0008_CHANT_010-bkkxmlele16}
+  - {type: xml-element, offset: 198, content: '', id: KR3e0008_CHANT_010-bkkxmlele17}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR3e0008_CHANT_010-5a.1}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR3e0008_CHANT_010-5a.2}
+  - {type: punctuation, offset: 202, content: ，, id: KR3e0008_CHANT_010-bkkpn45}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR3e0008_CHANT_010-5a.3}
+  - {type: punctuation, offset: 204, content: ，, id: KR3e0008_CHANT_010-bkkpn46}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR3e0008_CHANT_010-5a.4}
+  - {type: punctuation, offset: 210, content: ，, id: KR3e0008_CHANT_010-bkkpn47}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR3e0008_CHANT_010-5a.5}
+  - {type: punctuation, offset: 215, content: 、, id: KR3e0008_CHANT_010-bkkpn48}
+  - {type: punctuation, offset: 218, content: ，, id: KR3e0008_CHANT_010-bkkpn49}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR3e0008_CHANT_010-5a.6}
+  - {type: punctuation, offset: 221, content: ，, id: KR3e0008_CHANT_010-bkkpn50}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3e0008_CHANT_010-5a.7}
+  - {type: punctuation, offset: 227, content: ，, id: KR3e0008_CHANT_010-bkkpn51}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR3e0008_CHANT_010-5a.8}
+  - {type: punctuation, offset: 231, content: 。, id: KR3e0008_CHANT_010-bkkpn52}
+  - {type: xml-element, offset: 231, content: '', id: KR3e0008_CHANT_010-bkkxmlele18}
+  - {type: page-break, offset: 231, content: '', id: KR3e0008_SBCK_010-2b}
+  back: []
+hash: sha256:e45327d3ca8750988155bf04560e32c319905968ec84a6aa9bdb16f795f85b18
