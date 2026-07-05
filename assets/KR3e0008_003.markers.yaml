@@ -400,7 +400,6 @@ markers:
   - {type: 'tls:seg', offset: 847, content: '', id: KR3e0008_CHANT_003-9a.14}
   - {type: punctuation, offset: 854, content: ，, id: KR3e0008_CHANT_003-bkkpn164}
   - {type: 'tls:seg', offset: 854, content: '', id: KR3e0008_CHANT_003-9a.15}
-  - {type: substitution, offset: 854, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 858, content: 、, id: KR3e0008_CHANT_003-bkkpn165}
   - {type: punctuation, offset: 860, content: 、, id: KR3e0008_CHANT_003-bkkpn166}
   - {type: punctuation, offset: 862, content: ，, id: KR3e0008_CHANT_003-bkkpn167}
@@ -418,7 +417,6 @@ markers:
   - {type: 'tls:seg', offset: 884, content: '', id: KR3e0008_CHANT_003-10a.4}
   - {type: punctuation, offset: 888, content: ，, id: KR3e0008_CHANT_003-bkkpn172}
   - {type: 'tls:seg', offset: 888, content: '', id: KR3e0008_CHANT_003-10a.5}
-  - {type: substitution, offset: 888, original: 飡, replacement: 餐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3310}}
   - {type: punctuation, offset: 892, content: 。, id: KR3e0008_CHANT_003-bkkpn173}
   - {type: 'tls:seg', offset: 892, content: '', id: KR3e0008_CHANT_003-10a.6}
   - {type: punctuation, offset: 900, content: ，, id: KR3e0008_CHANT_003-bkkpn174}
@@ -971,7 +969,6 @@ markers:
   - {type: 'tls:seg', offset: 1877, content: '', id: KR3e0008_CHANT_003-19a.29}
   - {type: punctuation, offset: 1883, content: ，, id: KR3e0008_CHANT_003-bkkpn378}
   - {type: 'tls:seg', offset: 1883, content: '', id: KR3e0008_CHANT_003-19a.30}
-  - {type: substitution, offset: 1886, original: 悞, replacement: 誤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3748}}
   - {type: punctuation, offset: 1887, content: ，, id: KR3e0008_CHANT_003-bkkpn379}
   - {type: 'tls:seg', offset: 1887, content: '', id: KR3e0008_CHANT_003-19a.31}
   - {type: variant, offset: 1890, length: 21, content: 殞歿自謂其分至今冤魂塞於冥路死屍盈於曠野仁, SBCK: 隂也衞}
@@ -982,7 +979,6 @@ markers:
   - {type: 'tls:seg', offset: 1896, content: '', id: KR3e0008_CHANT_003-19a.33}
   - {type: punctuation, offset: 1904, content: ，, id: KR3e0008_CHANT_003-bkkpn382}
   - {type: 'tls:seg', offset: 1904, content: '', id: KR3e0008_CHANT_003-19a.34}
-  - {type: substitution, offset: 1905, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0018}}
   - {type: punctuation, offset: 1910, content: ，, id: KR3e0008_CHANT_003-bkkpn383}
   - {type: 'tls:seg', offset: 1910, content: '', id: KR3e0008_CHANT_003-19a.35}
   - {type: variant, offset: 1912, length: 16, content: 鑒此豈不痛歟凡兩感病俱作治有先後, SBCK: 陽也}
@@ -1408,4 +1404,4 @@ markers:
   - {type: xml-element, offset: 2483, content: '', id: KR3e0008_CHANT_003-bkkxmlele64}
   - {type: page-break, offset: 2483, content: '', id: KR3e0008_SBCK_003-51b}
   back: []
-hash: sha256:b18c733a0ab569595f7d57b747c302d0507670f4a919c16e7ff8aa1088c19e52
+hash: sha256:6acee1f407b82a25ee6c35c9dbdb617569778aa6291505a78a8265106f68b31a

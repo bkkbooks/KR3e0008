@@ -23,7 +23,6 @@ markers:
   - {type: 'tls:seg', offset: 12, content: '', id: KR3e0008_CHANT_001-1a.4}
   - {type: punctuation, offset: 15, content: ？, id: KR3e0008_CHANT_001-bkkpn5}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3e0008_CHANT_001-1a.5}
-  - {type: substitution, offset: 15, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 17, content: ：, id: KR3e0008_CHANT_001-bkkpn6}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3e0008_CHANT_001-1a.6}
   - {type: variant, offset: 18, length: 1, content: 脈, SBCK: 脉}
@@ -39,7 +38,6 @@ markers:
   - {type: variant, offset: 28, length: 1, content: 脈, SBCK: 脉}
   - {type: variant, offset: 28, length: 1, content: 脈, krp: 脉}
   - {type: punctuation, offset: 30, content: 、, id: KR3e0008_CHANT_001-bkkpn13}
-  - {type: substitution, offset: 30, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 31, content: 、, id: KR3e0008_CHANT_001-bkkpn14}
   - {type: punctuation, offset: 32, content: 、, id: KR3e0008_CHANT_001-bkkpn15}
   - {type: punctuation, offset: 33, content: 、, id: KR3e0008_CHANT_001-bkkpn16}
@@ -81,7 +79,6 @@ markers:
   - {type: variant, offset: 64, length: 1, content: 別, krp: 别}
   - {type: punctuation, offset: 66, content: ？, id: KR3e0008_CHANT_001-bkkpn23}
   - {type: 'tls:seg', offset: 66, content: '', id: KR3e0008_CHANT_001-2a.5}
-  - {type: substitution, offset: 66, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 68, content: ：, id: KR3e0008_CHANT_001-bkkpn24}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3e0008_CHANT_001-2a.6}
   - {type: variant, offset: 69, length: 1, content: 脈, SBCK: 脉}
@@ -133,7 +130,6 @@ markers:
   - {type: variant, offset: 130, length: 1, content: 熱, SBCK: 􅀬}
   - {type: punctuation, offset: 133, content: ？, id: KR3e0008_CHANT_001-bkkpn39}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3e0008_CHANT_001-3a.5}
-  - {type: substitution, offset: 133, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 135, content: ：, id: KR3e0008_CHANT_001-bkkpn40}
   - {type: 'tls:seg', offset: 135, content: '', id: KR3e0008_CHANT_001-3a.6}
   - {type: variant, offset: 135, length: 1, content: 陰, SBCK: 隂}
@@ -160,7 +156,6 @@ markers:
   - {type: 'tls:seg', offset: 152, content: '', id: KR3e0008_CHANT_001-3a.11}
   - {type: punctuation, offset: 157, content: ？, id: KR3e0008_CHANT_001-bkkpn46}
   - {type: 'tls:seg', offset: 157, content: '', id: KR3e0008_CHANT_001-3a.12}
-  - {type: substitution, offset: 157, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 159, content: ：, id: KR3e0008_CHANT_001-bkkpn47}
   - {type: 'tls:seg', offset: 159, content: '', id: KR3e0008_CHANT_001-3a.13}
   - {type: variant, offset: 163, length: 1, content: 脈, SBCK: 脉}
@@ -183,7 +178,6 @@ markers:
   - {type: variant, offset: 185, length: 1, content: 陰, krp: 隂}
   - {type: punctuation, offset: 188, content: ？, id: KR3e0008_CHANT_001-bkkpn53}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3e0008_CHANT_001-3a.19}
-  - {type: substitution, offset: 188, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 190, content: ：, id: KR3e0008_CHANT_001-bkkpn54}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3e0008_CHANT_001-3a.20}
   - {type: variant, offset: 193, length: 1, content: 脈, SBCK: 脉}
@@ -321,7 +315,6 @@ markers:
   - {type: variant, offset: 322, length: 1, content: 漆, krp: 􅃮}
   - {type: variant, offset: 324, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 324, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 324, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 326, content: ，, id: KR3e0008_CHANT_001-bkkpn80}
   - {type: 'tls:seg', offset: 326, content: '', id: KR3e0008_CHANT_001-6a.7}
   - {type: punctuation, offset: 330, content: 。, id: KR3e0008_CHANT_001-bkkpn81}
@@ -487,7 +480,6 @@ markers:
   - {type: 'tls:seg', offset: 499, content: '', id: KR3e0008_CHANT_001-10a.9}
   - {type: variant, offset: 503, length: 1, content: 產, SBCK: 産}
   - {type: variant, offset: 503, length: 1, content: 產, krp: 産}
-  - {type: substitution, offset: 503, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 506, content: ，, id: KR3e0008_CHANT_001-bkkpn119}
   - {type: 'tls:seg', offset: 506, content: '', id: KR3e0008_CHANT_001-10a.10}
   - {type: punctuation, offset: 513, content: 。, id: KR3e0008_CHANT_001-bkkpn120}
@@ -508,7 +500,6 @@ markers:
   - {type: 'tls:seg', offset: 525, content: '', id: KR3e0008_CHANT_001-11a.5}
   - {type: punctuation, offset: 527, content: ？, id: KR3e0008_CHANT_001-bkkpn124}
   - {type: 'tls:seg', offset: 527, content: '', id: KR3e0008_CHANT_001-11a.6}
-  - {type: substitution, offset: 527, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 529, content: ：, id: KR3e0008_CHANT_001-bkkpn125}
   - {type: 'tls:seg', offset: 529, content: '', id: KR3e0008_CHANT_001-11a.7}
   - {type: variant, offset: 529, length: 1, content: 脈, SBCK: 脉}
@@ -578,7 +569,6 @@ markers:
   - {type: 'tls:seg', offset: 603, content: '', id: KR3e0008_CHANT_001-12a.10}
   - {type: punctuation, offset: 605, content: ？, id: KR3e0008_CHANT_001-bkkpn142}
   - {type: 'tls:seg', offset: 605, content: '', id: KR3e0008_CHANT_001-12a.11}
-  - {type: substitution, offset: 605, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 607, content: ：, id: KR3e0008_CHANT_001-bkkpn143}
   - {type: 'tls:seg', offset: 607, content: '', id: KR3e0008_CHANT_001-12a.12}
   - {type: variant, offset: 607, length: 1, content: 脈, SBCK: 脉}
@@ -602,7 +592,6 @@ markers:
   - {type: 'tls:seg', offset: 633, content: '', id: KR3e0008_CHANT_001-13a.4}
   - {type: punctuation, offset: 635, content: ？, id: KR3e0008_CHANT_001-bkkpn148}
   - {type: 'tls:seg', offset: 635, content: '', id: KR3e0008_CHANT_001-13a.5}
-  - {type: substitution, offset: 635, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 637, content: ：, id: KR3e0008_CHANT_001-bkkpn149}
   - {type: 'tls:seg', offset: 637, content: '', id: KR3e0008_CHANT_001-13a.6}
   - {type: variant, offset: 638, length: 1, content: 脈, SBCK: 脉}
@@ -655,7 +644,6 @@ markers:
   - {type: 'tls:seg', offset: 693, content: '', id: KR3e0008_CHANT_001-14a.6}
   - {type: punctuation, offset: 695, content: ？, id: KR3e0008_CHANT_001-bkkpn163}
   - {type: 'tls:seg', offset: 695, content: '', id: KR3e0008_CHANT_001-14a.7}
-  - {type: substitution, offset: 695, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 697, content: ：, id: KR3e0008_CHANT_001-bkkpn164}
   - {type: 'tls:seg', offset: 697, content: '', id: KR3e0008_CHANT_001-14a.8}
   - {type: variant, offset: 698, length: 1, content: 為, SBCK: 爲}
@@ -702,7 +690,6 @@ markers:
   - {type: variant, offset: 747, length: 1, content: 別, krp: 别}
   - {type: punctuation, offset: 749, content: ？, id: KR3e0008_CHANT_001-bkkpn175}
   - {type: 'tls:seg', offset: 749, content: '', id: KR3e0008_CHANT_001-15a.5}
-  - {type: substitution, offset: 749, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 751, content: ：, id: KR3e0008_CHANT_001-bkkpn176}
   - {type: 'tls:seg', offset: 751, content: '', id: KR3e0008_CHANT_001-15a.6}
   - {type: punctuation, offset: 753, content: 、, id: KR3e0008_CHANT_001-bkkpn177}
@@ -777,7 +764,6 @@ markers:
   - {type: 'tls:seg', offset: 864, content: '', id: KR3e0008_CHANT_001-17a.4}
   - {type: punctuation, offset: 867, content: ？, id: KR3e0008_CHANT_001-bkkpn201}
   - {type: 'tls:seg', offset: 867, content: '', id: KR3e0008_CHANT_001-17a.5}
-  - {type: substitution, offset: 867, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 869, content: ：, id: KR3e0008_CHANT_001-bkkpn202}
   - {type: 'tls:seg', offset: 869, content: '', id: KR3e0008_CHANT_001-17a.6}
   - {type: punctuation, offset: 875, content: ，, id: KR3e0008_CHANT_001-bkkpn203}
@@ -846,7 +832,6 @@ markers:
   - {type: variant, offset: 951, length: 0, content: '', krp: 經曰諸陽浮數爲乘府諸隂遲濇爲乘藏}
   - {type: variant, offset: 953, length: 1, content: 脈, SBCK: 脉}
   - {type: variant, offset: 953, length: 1, content: 脈, krp: 脉}
-  - {type: substitution, offset: 956, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 957, content: ，, id: KR3e0008_CHANT_001-bkkpn221}
   - {type: 'tls:seg', offset: 957, content: '', id: KR3e0008_CHANT_001-18a.10}
   - {type: variant, offset: 958, length: 1, content: 陰, SBCK: 隂}
@@ -871,7 +856,6 @@ markers:
   - {type: 'tls:seg', offset: 985, content: '', id: KR3e0008_CHANT_001-18a.16}
   - {type: variant, offset: 988, length: 1, content: 脈, SBCK: 脉}
   - {type: variant, offset: 988, length: 1, content: 脈, krp: 脉}
-  - {type: substitution, offset: 991, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 992, content: ，, id: KR3e0008_CHANT_001-bkkpn228}
   - {type: 'tls:seg', offset: 992, content: '', id: KR3e0008_CHANT_001-18a.17}
   - {type: punctuation, offset: 998, content: ，, id: KR3e0008_CHANT_001-bkkpn229}
@@ -887,7 +871,6 @@ markers:
   - {type: punctuation, offset: 1009, content: ，, id: KR3e0008_CHANT_001-bkkpn231}
   - {type: 'tls:seg', offset: 1009, content: '', id: KR3e0008_CHANT_001-18a.20}
   - {type: variant, offset: 1009, length: 1, content: 纔, SBCK: 􅂊}
-  - {type: substitution, offset: 1009, original: 纔, replacement: 才, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3280}}
   - {type: variant, offset: 1012, length: 1, content: 為, SBCK: 爲}
   - {type: variant, offset: 1012, length: 1, content: 為, krp: 爲}
   - {type: variant, offset: 1014, length: 1, content: 脈, SBCK: 脉}
@@ -1048,7 +1031,6 @@ markers:
   - {type: variant, offset: 1207, length: 1, content: 脈, krp: 脉}
   - {type: variant, offset: 1208, length: 1, content: 微, SBCK: 㣲}
   - {type: variant, offset: 1208, length: 1, content: 微, krp: 㣲}
-  - {type: substitution, offset: 1210, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 1212, content: ，, id: KR3e0008_CHANT_001-bkkpn274}
   - {type: 'tls:seg', offset: 1212, content: '', id: KR3e0008_CHANT_001-20a.4}
   - {type: variant, offset: 1213, length: 1, content: 為, SBCK: 爲}
@@ -1071,7 +1053,6 @@ markers:
   - {type: variant, offset: 1246, length: 1, content: 熱, SBCK: 􅀬}
   - {type: punctuation, offset: 1247, content: ，, id: KR3e0008_CHANT_001-bkkpn282}
   - {type: 'tls:seg', offset: 1247, content: '', id: KR3e0008_CHANT_001-20a.12}
-  - {type: substitution, offset: 1249, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
   - {type: punctuation, offset: 1251, content: ，, id: KR3e0008_CHANT_001-bkkpn283}
   - {type: 'tls:seg', offset: 1251, content: '', id: KR3e0008_CHANT_001-20a.13}
   - {type: punctuation, offset: 1255, content: ，, id: KR3e0008_CHANT_001-bkkpn284}
@@ -1117,7 +1098,6 @@ markers:
   - {type: 'tls:seg', offset: 1307, content: '', id: KR3e0008_CHANT_001-20a.26}
   - {type: punctuation, offset: 1311, content: ，, id: KR3e0008_CHANT_001-bkkpn297}
   - {type: 'tls:seg', offset: 1311, content: '', id: KR3e0008_CHANT_001-20a.27}
-  - {type: substitution, offset: 1314, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
   - {type: punctuation, offset: 1316, content: ；, id: KR3e0008_CHANT_001-bkkpn298}
   - {type: 'tls:seg', offset: 1316, content: '', id: KR3e0008_CHANT_001-20a.28}
   - {type: punctuation, offset: 1321, content: ，, id: KR3e0008_CHANT_001-bkkpn299}
@@ -1145,7 +1125,6 @@ markers:
   - {type: variant, offset: 1344, length: 1, content: 陰, krp: 隂}
   - {type: variant, offset: 1345, length: 1, content: 脈, SBCK: 脉}
   - {type: variant, offset: 1345, length: 1, content: 脈, krp: 脉}
-  - {type: substitution, offset: 1347, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
   - {type: punctuation, offset: 1348, content: ，, id: KR3e0008_CHANT_001-bkkpn305}
   - {type: 'tls:seg', offset: 1348, content: '', id: KR3e0008_CHANT_001-20a.35}
   - {type: punctuation, offset: 1353, content: 。, id: KR3e0008_CHANT_001-bkkpn306}
@@ -1208,7 +1187,6 @@ markers:
   - {type: variant, offset: 1428, length: 1, content: 絕, SBCK: 絶也病有不可治者爲邪氣勝於正氣也内經曰大則邪至又曰大則病進脉浮而洪者邪氣勝也身汗如油喘而不休者正氣脫也四時以胃氣爲本水漿不下者胃氣盡也一身以榮衞爲充形體不仁者榮衞絶也不仁爲痛痒俱不知也針經曰榮衞不行故爲不仁爭則亂安則靜乍靜乍亂者正與邪爭正􅀒邪勝也正氣巳脫胃氣又盡榮衞俱絶邪氣獨勝故曰命絶}
   - {type: page-break, offset: 1428, content: '', id: KR3e0008_SBCK_001-14a}
   - {type: variant, offset: 1428, length: 1, content: 絕, krp: 絶也病有不可治者爲邪氣勝於正氣也内經曰大則邪至又曰大則病進脉浮而洪者邪氣勝也身汗如油喘而不休者正氣脫也四時以胃氣爲本水漿不下者胃氣盡也一身以榮衞爲充形體不仁者榮衞絶也不仁爲痛痒俱不知也針經曰榮衞不行故爲不仁爭則亂安則靜乍靜乍亂者正與邪爭正負邪勝也正氣巳脫胃氣又盡榮衞俱絶邪氣獨勝故曰命絶}
-  - {type: substitution, offset: 1428, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1430, content: 。, id: KR3e0008_CHANT_001-bkkpn324}
   - {type: 'tls:seg', offset: 1430, content: '', id: KR3e0008_CHANT_001-21a.20}
   - {type: punctuation, offset: 1439, content: ，, id: KR3e0008_CHANT_001-bkkpn325}
@@ -1223,7 +1201,6 @@ markers:
   - {type: variant, offset: 1449, length: 1, content: 為, krp: 爲}
   - {type: variant, offset: 1452, length: 1, content: 絕, SBCK: 絶也肺爲氣之主爲津液之帥汗岀髮潤者津脫也喘不休者氣脫}
   - {type: variant, offset: 1452, length: 1, content: 絕, krp: 絶也肺爲氣之主爲津液之帥汗岀髮潤者津脫也喘不休者氣脫}
-  - {type: substitution, offset: 1452, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1454, content: 。, id: KR3e0008_CHANT_001-bkkpn328}
   - {type: 'tls:seg', offset: 1454, content: '', id: KR3e0008_CHANT_001-21a.24}
   - {type: punctuation, offset: 1458, content: ，, id: KR3e0008_CHANT_001-bkkpn329}
@@ -1237,7 +1214,6 @@ markers:
   - {type: 'tls:seg', offset: 1468, content: '', id: KR3e0008_CHANT_001-21a.27}
   - {type: variant, offset: 1468, length: 3, content: 此心絕, SBCK: 隂絶而陽無根}
   - {type: variant, offset: 1468, length: 3, content: 此心絕, krp: 隂絶而陽無根}
-  - {type: substitution, offset: 1470, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1472, content: 。, id: KR3e0008_CHANT_001-bkkpn332}
   - {type: 'tls:seg', offset: 1472, content: '', id: KR3e0008_CHANT_001-21a.28}
   - {type: punctuation, offset: 1476, content: ，, id: KR3e0008_CHANT_001-bkkpn333}
@@ -1248,7 +1224,6 @@ markers:
   - {type: variant, offset: 1482, length: 1, content: 為, krp: 爲}
   - {type: variant, offset: 1484, length: 1, content: 絕, SBCK: 絶也脣吻者脾之􅀱肝色青肝絶則真色見於所勝之部也四肢者脾所主肝主筋肝絶則筋脉引急發於所勝之分也漐習者爲振動若搐搦手足時時引縮}
   - {type: variant, offset: 1484, length: 1, content: 絕, krp: 絶也脣吻者脾之候肝色青肝絶則真色見於所勝之部也四肢者脾所主肝主筋肝絶則筋脉引急發於所勝之分也漐習者爲振動若搐搦手足時時引縮}
-  - {type: substitution, offset: 1484, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1486, content: 。, id: KR3e0008_CHANT_001-bkkpn335}
   - {type: 'tls:seg', offset: 1486, content: '', id: KR3e0008_CHANT_001-21a.31}
   - {type: variant, offset: 1489, length: 1, content: 黑, SBCK: 黒}
@@ -1264,7 +1239,6 @@ markers:
   - {type: variant, offset: 1498, length: 1, content: 絕, SBCK: 絶也脾主口脣絶則精蕐去故環口黧黒柔爲隂柔汗冷汗也脾胃爲津液之本陽氣之宗柔汗􅀤黄者脾絶而陽脫真色見}
   - {type: page-break, offset: 1498, content: '', id: KR3e0008_SBCK_001-15a}
   - {type: variant, offset: 1498, length: 1, content: 絕, krp: 絶也脾主口脣絶則精蕐去故環口黧黒柔爲隂柔汗冷汗也脾胃爲津液之本陽氣之宗柔汗發黄者脾絶而陽脫真色見}
-  - {type: substitution, offset: 1498, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1500, content: 。, id: KR3e0008_CHANT_001-bkkpn338}
   - {type: 'tls:seg', offset: 1500, content: '', id: KR3e0008_CHANT_001-21a.34}
   - {type: punctuation, offset: 1504, content: 、, id: KR3e0008_CHANT_001-bkkpn339}
@@ -1275,19 +1249,16 @@ markers:
   - {type: variant, offset: 1512, length: 1, content: 為, krp: 爲}
   - {type: variant, offset: 1514, length: 1, content: 絕, SBCK: 絶也腎司開闔禁固便溺溲便遺失者腎絶不能約制也腎藏志狂言者志不守也内經曰狂言者是失志矣失志者死鍼經曰五藏之精氣皆上注於目骨之精爲瞳子目反直視者腎絶則骨之精不榮於瞳子而瞳子不轉}
   - {type: variant, offset: 1514, length: 1, content: 絕, krp: 絶也腎司開闔禁固便溺溲便遺失者腎絶不能約制也腎藏志狂言者志不守也内經曰狂言者是失志矣失志者死鍼經曰五藏之精氣皆上注於目骨之精爲瞳子目反直視者腎絶則骨之精不榮於瞳子而瞳子不轉}
-  - {type: substitution, offset: 1514, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1516, content: 。, id: KR3e0008_CHANT_001-bkkpn342}
   - {type: 'tls:seg', offset: 1516, content: '', id: KR3e0008_CHANT_001-21a.36}
   - {type: variant, offset: 1521, length: 1, content: 陰, SBCK: 隂}
   - {type: variant, offset: 1521, length: 1, content: 陰, krp: 隂}
   - {type: variant, offset: 1524, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 1524, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 1524, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1525, content: ，, id: KR3e0008_CHANT_001-bkkpn343}
   - {type: 'tls:seg', offset: 1525, content: '', id: KR3e0008_CHANT_001-21a.37}
   - {type: variant, offset: 1529, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 1529, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 1529, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1530, content: ，, id: KR3e0008_CHANT_001-bkkpn344}
   - {type: 'tls:seg', offset: 1530, content: '', id: KR3e0008_CHANT_001-21a.38}
   - {type: variant, offset: 1530, length: 1, content: 陰, SBCK: 隂}
@@ -1302,7 +1273,6 @@ markers:
   - {type: variant, offset: 1542, length: 1, content: 陰, krp: 隂}
   - {type: variant, offset: 1545, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 1545, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 1545, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1546, content: ，, id: KR3e0008_CHANT_001-bkkpn348}
   - {type: 'tls:seg', offset: 1546, content: '', id: KR3e0008_CHANT_001-21a.42}
   - {type: punctuation, offset: 1551, content: ，, id: KR3e0008_CHANT_001-bkkpn349}
@@ -1409,7 +1379,6 @@ markers:
   - {type: variant, offset: 1659, length: 1, content: 脈, krp: 脉}
   - {type: punctuation, offset: 1665, content: ，, id: KR3e0008_CHANT_001-bkkpn375}
   - {type: 'tls:seg', offset: 1665, content: '', id: KR3e0008_CHANT_001-23a.12}
-  - {type: substitution, offset: 1666, original: 衂, replacement: 衄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1960}}
   - {type: punctuation, offset: 1668, content: 。, id: KR3e0008_CHANT_001-bkkpn376}
   - {type: xml-element, offset: 1668, content: '', id: KR3e0008_CHANT_001-bkkxmlele68}
   - {type: xml-element, offset: 1668, content: '', id: KR3e0008_CHANT_001-bkkxmlele69}
@@ -1455,7 +1424,6 @@ markers:
   - {type: 'tls:seg', offset: 1723, content: '', id: KR3e0008_CHANT_001-24a.12}
   - {type: punctuation, offset: 1727, content: ，, id: KR3e0008_CHANT_001-bkkpn387}
   - {type: 'tls:seg', offset: 1727, content: '', id: KR3e0008_CHANT_001-24a.13}
-  - {type: substitution, offset: 1730, original: 痒, replacement: 癢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1125}}
   - {type: punctuation, offset: 1732, content: 。, id: KR3e0008_CHANT_001-bkkpn388}
   - {type: xml-element, offset: 1732, content: '', id: KR3e0008_CHANT_001-bkkxmlele72}
   - {type: xml-element, offset: 1732, content: '', id: KR3e0008_CHANT_001-bkkxmlele73}
@@ -1491,7 +1459,6 @@ markers:
   - {type: 'tls:seg', offset: 1774, content: '', id: KR3e0008_CHANT_001-25a.10}
   - {type: variant, offset: 1775, length: 1, content: 內, SBCK: 内}
   - {type: variant, offset: 1775, length: 1, content: 內, krp: 内}
-  - {type: substitution, offset: 1776, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: punctuation, offset: 1778, content: 。, id: KR3e0008_CHANT_001-bkkpn397}
   - {type: 'tls:seg', offset: 1778, content: '', id: KR3e0008_CHANT_001-25a.11}
   - {type: variant, offset: 1780, length: 1, content: 微, SBCK: 㣲}
@@ -1528,7 +1495,6 @@ markers:
   - {type: variant, offset: 1828, length: 1, content: 陰, krp: 隂}
   - {type: variant, offset: 1830, length: 1, content: 為, SBCK: 爲}
   - {type: variant, offset: 1830, length: 1, content: 為, krp: 爲}
-  - {type: substitution, offset: 1831, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: punctuation, offset: 1832, content: ，, id: KR3e0008_CHANT_001-bkkpn411}
   - {type: 'tls:seg', offset: 1832, content: '', id: KR3e0008_CHANT_001-25a.20}
   - {type: variant, offset: 1833, length: 1, content: 膝, SBCK: 􅂰}
@@ -1882,7 +1848,6 @@ markers:
   - {type: variant, offset: 2241, length: 0, content: '', SBCK: 浮爲邪氣并於衞而衞氣勝滑爲邪氣并於榮而榮氣實邪氣勝實擁於榮衞則榮衞行速故脉數疾一息六至曰數平人脉一息四至衞氣行六寸今一息六至則衞氣行九寸計過平人之半是脉數疾知衞氣失其常度也浮滑數疾之脉發􅀬汗岀而當解若不解者精氣脫也必不可治經曰脉隂陽俱盛大汗岀不解者死}
   - {type: page-break, offset: 2241, content: '', id: KR3e0008_SBCK_001-22b}
   - {type: variant, offset: 2241, length: 0, content: '', krp: 浮爲邪氣并於衞而衞氣勝滑爲邪氣并於榮而榮氣實邪氣勝實擁於榮衞則榮衞行速故脉數疾一息六至曰數平人脉一息四至衞氣行六寸今一息六至則衞氣行九寸計過平人之半是脉數疾知衞氣失其常度也浮滑數疾之脉發熱汗岀而當解若不解者精氣脫也必不可治經曰脉隂陽俱盛大汗岀不解者死}
-  - {type: substitution, offset: 2243, original: 欬, replacement: 咳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0731}}
   - {type: punctuation, offset: 2247, content: ，, id: KR3e0008_CHANT_001-bkkpn507}
   - {type: 'tls:seg', offset: 2247, content: '', id: KR3e0008_CHANT_001-30a.3}
   - {type: variant, offset: 2248, length: 1, content: 脈, SBCK: 脉}
@@ -1943,4 +1908,4 @@ markers:
   - {type: page-break, offset: 2258, content: '', id: KR3e0008_SBCK_001-47a}
   - {type: variant, offset: 2258, length: 0, content: '', krp: 千金方云以喘嗽爲欬逆上氣者肺病散者心脉是心火刑於肺金也内經曰心之肺謂之死隂死隂之屬不過三日而死以形見其損傷故也平脉法第二問曰脉有三部隂陽相乘榮衞血氣在人體躬呼吸岀入上下於中因息遊布津液流通隨時動作効象形容春弦秋浮冬沉夏洪察色觀脉大小不同一時之間變無經常尺寸參差或短或長上下乖錯或存或亡病輙改易進退低昻心迷意惑動失紀綱願爲具陳令得分明師曰子之所問道之根源脉有三部尺寸及關寸爲上部關爲中部尺爲下部榮衞流行不失衡銓衡銓者稱也可以稱量輕重内經曰春應中規夏應中矩秋應中衡冬應中權榮行脉中衞行脉外榮衞與脉相隨上下應四時不失其常度腎沉心洪肺浮肝弦此自經常不失銖分腎北方水王於冬而脉沉心南方火王於夏而脉洪肺西方金王於秋而脉浮肝東方木王於春而脉弦此爲經常銖分之不差也岀入升降漏刻周旋水下二刻一周循環人身之脉計長一十六丈二尺一呼脉行三寸一吸脉行三寸一呼一吸爲一息脉行六寸一日一夜漏水下百刻人一萬三千五百息脉行八百一十丈五十度周於身則一刻之中人一百三十五息脉行八丈一尺水下二刻人二百七十息脉行一十六丈二尺一周於身也脉經之行終而復始若循環之無端也當復寸口虚實見焉脉經之始從中焦注於手太隂寸口二百七十息脉行一周身復還至於寸口寸口爲脉之經始故以診視虚實焉經曰虚實死生之要皆見於寸口之中變化相乘隂陽相干風則浮虚寒則牢堅沉潜水畜支飲急弦動則爲痛數則熱煩風傷陽故脉浮虚寒傷隂故脉牢堅畜積於内者謂之水畜故脉沉濳支散於外者謂之支飲故脉急弦動則隂陽相搏相搏則痛生焉數爲陽邪氣勝陽勝則熱煩焉設有不應知變所縁三部不同病各異端脉與病不相應者必縁傳變之所致三部以候五藏之氣隨部察其虚實焉太過可怪不及亦然邪不空見中必有姧審察表裏三焦别焉知其所舎消息診㸔料度府藏獨見若神爲子條記傳與賢人太過不及之脉皆有邪氣干於正氣審㸔在表在裏入府入藏隨其所舎而治之師曰呼吸者脉之頭也難經曰一呼脉行三寸一吸脉行三寸以脉隨呼吸而行故言脉之頭也初持脉來疾去遲此出疾入遲名曰内虚外實也初持脉來遲去疾此岀遲入疾名曰内實外虚也外爲陽内爲隂内經曰來者爲陽去者爲隂是岀以候外入以候内疾爲有餘有餘則實遲爲不足不足則虚來疾去遲者陽有餘而隂不足故曰内虚外實來遲去疾者陽不足而隂有餘故曰内實外虚問曰上工望而知之中工問而知之下工脉而知之願聞其說師曰病家人請云病人若發熱身體疼病人自卧師到診其脉沉而遲者知其差也何以知之表有病者脉當浮大今脉反沉遲故知愈也望以觀其形證問以知其所苦脉以别其表裏病苦發熱身疼邪在表也當卧不安而脉浮數今病人自卧而脉沉遲者表邪緩也是有裏脉而無表證則知表邪當愈也假令病人云腹内卒痛病人自坐師到脉之浮而大者知其差也何以知之若裏有病者脉當沉而細今脉浮大故知愈也腹痛者裏寒也痛甚則不能起而脉沉細今病人自坐而脉浮大者裏寒散也是有表脉而無裏證也則知裏邪當愈是望證問病切脉三者相參而得之可爲十全之醫鍼經曰知一爲上知二爲神知三神且明矣師曰病家人來請云病人發熱煩極明日師到病人向壁卧此熱巳去也設令脉不和處言巳愈發熱煩極則不能靜卧今向壁靜卧知熱巳去設令向壁卧聞師到不驚起而盻視若三言三止脉之嚥唾者此詐病也設令脉自和處言汝病大重當須服吐下藥鍼灸數十百處乃愈詐病者非善人以言恐之使其畏懼則愈醫者意也此其是歟師持脉病人欠者無病也鍼經曰陽引而上隂引而下隂陽相引故欠隂陽不相引則病隂陽相引則和是欠者無病也脉之呻者病也呻爲呻吟之聲身有所苦則然也言遲者風也風客於中則經絡急舌強難運用也揺頭言者裏痛也裏有病欲言則頭爲之戰揺行遲者表強也表強者由筋絡引急而行歩不利也坐而伏者短氣也短氣者裏不和也故坐而喜伏坐而下一脚者腰痛也内經曰腰者身之大關節也腰痛爲大關節不利故坐不能正下一脚以緩腰中之痛也裏實護腹如懷卵物者心痛也心痛則不能伸仰護腹以按其痛師曰伏氣之病以意候之今月之内欲有伏氣假令舊有伏氣當須脉之若脉㣲弱者當喉中痛似傷非喉痺也病人云實咽中痛雖爾今復欲下利冬時感寒伏藏於經中不即發者謂之伏氣至春分之時伏寒欲發故云今月之内欲有伏氣假令伏氣已發當須脉之審在何經得脉㣲弱者知邪在少隂少隂之脉循喉嚨寒氣客之必發咽痛腎司開闔少隂治在下焦寒邪内甚則開闔不治下焦不約必成下利故云雖爾咽痛復欲下利問曰人病恐怖者其脉何狀師曰脉形如循絲纍纍然其靣白脫色也内經曰血氣者人之神恐怖者血氣不足而神氣弱也脉形似循絲纍纍然靣白脫色者鍼經曰血奪者色夭然不澤其脉空虚是知恐怖爲血氣不足問曰人不飲其脉何類師曰其脉自濇脣口乾燥也濇爲隂雖主亡津液而脣口乾燥以隂爲主内故不飲也問曰人愧者其脉何類師曰脉浮而靣色乍白乍赤愧者羞也愧則神氣怯弱故脉浮而靣色變改不常也問曰經說脉有三菽六菽重者何謂也師曰脉者人以指按之如三菽之重者肺氣也如六菽之重者心氣也如九菽之重者脾氣也如十二菽之重者肝氣也按之至骨者腎氣也菽豆也難經曰如三菽之重與皮毛相得者肺部也如六菽之重與血脉相得者心部也如九菽之重與肌肉相得者脾部也如十二菽之重與筋平者肝部也按之至骨舉指來疾者腎部也各隨所主之分以候藏氣假令下利寸口關上尺中悉不見脉然尺中時一小見脉再舉頭者腎氣也若見損脉來至爲難治脉經曰冷氣在胃中故令脉不通下利不見脉則冷氣客於脾胃今尺中時一小見爲脾虚腎氣所乘脉再舉頭者脾爲腎所乘也若尺中之脉更或减損爲腎氣亦衰脾復勝之鬼賊相刑故云難治是脾勝不應時也問曰脉有相乘有縱有橫有逆有順何也師曰水行乘火金行乘木名曰縱火行乘水木行乘金名曰橫水行乘金火行乘木名曰逆金行乘水木行乘火名曰順也金勝木水勝火縱者言縱任其氣乘其所勝橫者言其氣橫逆反乘所不勝也縱橫與恣縱恣橫之義通水爲金子火爲木子子行乘母其氣逆也母行乘子其氣順也問曰脉有殘賊何謂也師曰脉有弦緊浮滑沉濇此六者名曰殘賊能爲諸脉作病也爲人病脉名曰八邪風寒暑濕傷於外也飢飽勞逸傷於内也經脉者榮衞也榮衞者隂陽也其爲諸經脉作病者必由風寒暑濕傷於榮衞客於隂陽之中風則脉浮寒則脉緊中暑則脉滑中濕則脉濇傷於隂則脉沉傷於陽則脉浮所以謂之殘賊者傷良曰殘害良曰賊以能傷害正氣也問曰脉有災恠何謂也師曰假令人病脉得太陽與形證相應因爲作湯比還送湯如食頃病人乃大吐若下利腹中痛師曰我前來不見此證今乃變異是名災恠又問曰何縁作此吐利荅曰或有舊時服藥今乃發作故名災恠耳醫以脉證與藥相對而反變異爲其災可恠故名災恠問曰東方肝脉其形何似師曰肝者木也名厥隂其脉㣲弦濡弱而長是肝脉也肝病自得濡弱者愈也難經曰春脉弦者肝東方木也萬物始生未有枝葉故脉來濡弱而長故曰弦是肝之平脉肝病得此脉者爲肝氣巳和也假令得純弦脉者死何以知之以其脉如弦直是肝藏傷故知死也純弦者爲如弦直而不軟是中無胃氣爲真藏之脉内經曰死肝脉來急益勁如新張弓弦南方心脉其形何似師曰心者火也名少隂其脉洪大而長是心脉也心病自得洪大者愈也心王於夏夏則陽外勝氣血淖溢故其脉來洪大而長也假令脉來㣲去大故名反病在裏也脉來頭小本大者故名覆病在表也上㣲頭小者則汗岀下㣲本大者則爲關格不通不得尿頭無汗者可治有汗者死心脉來盛去衰爲平來㣲去大是反本脉内經曰大則邪至小則平㣲爲正氣大爲邪氣來以候表來㣲則知表和去以候裏去大則知裏病内經曰心脉來不盛去反盛此爲不及病在中頭小本大者即前小後大也小爲正氣大爲邪氣則邪氣先在裏今復還於表故名曰覆不云去而止云來者是知在表脉經曰在上爲表在下爲裏汗者心之液上㣲爲浮之而㣲頭小爲前小則表中氣虚故主汗岀下㣲沉之而㣲本大爲後大沉則在裏大則病進内經曰心爲牡藏小膓爲之使今邪甚下行格閉小膓使正氣不通故不得尿名曰關格脉經曰陽氣上岀汗見於頭今關格正氣不通加之頭有汗者則陽氣不得下通而上脫也其無汗者雖作關格然陽未衰而猶可治西方肺脉其形何似師曰肺者金也名大隂其脉毛浮也肺病自得此脉若得緩遲者皆愈若得數者則劇何以知之數者南方火火剋西方金法當癰腫爲難治也輕虚浮曰毛肺之平脉也緩遲者脾之脉脾爲肺之母以子母相生故云皆愈數者心之脉火剋金爲鬼賊相刑故劇肺主皮毛數則爲熱熱客皮膚留而不去則爲癰瘍經曰數脉不時則生惡瘡問曰二月得毛浮脉何以處言至秋當死師曰二月之時脉當濡弱反得毛浮者故知至秋死二月肝用事肝脉属木應濡弱反得毛浮者是肺脉也肺属金金來剋木故知至秋死他皆倣此當春時反見秋脉爲金氣乘木肺來剋肝奪王脉而見至秋肺王肝氣則絶故知至秋死也師曰脉肥人責浮瘦人責沉肥人當沉今反浮瘦人當浮今反沉故責之肥人肌膚厚其脉當沉瘦人肌膚薄其脉當浮今肥人脉反浮瘦人脉反沉必有邪氣相干使脉反常故當責之師曰寸脉下不至關爲陽絶尺脉上不至關爲隂絶此皆不治决死也若計其餘命死生之期期以月節剋之也脉經曰陽生於寸動於尺隂生於尺動於寸寸脉下不至關者爲陽絶不能下應於尺也尺脉上不至關者爲隂絶不能上應於寸也内經曰隂陽離缺精氣乃絶此隂陽偏絶故皆决死期以月節剋之者謂如陽絶死於春夏隂絶死於秋冬師曰脉病人不病名曰行尸以無王氣卒眩仆不識人者短命則死人病脉不病名曰内虚以無榖神雖困無苦脉者人之根本也脉病人不病爲根本内絶形雖且強卒然氣絕則眩運僵仆而死不曰行尸而何人病脉不病則根本内固形雖且羸止内虚爾榖神者榖氣也榖氣旣足自然安矣内經曰形氣有餘脉氣不足死脉氣有餘形氣不足生問曰翕奄沉名曰滑何謂也沉爲純隂翕爲正陽隂陽和合故令脉滑關尺自平陽明脉㣲沉食飲自可少隂脉㣲滑滑者緊之浮名也此爲隂實其人必股内汗岀隂下濕也脉來大而盛聚而沉謂之翕奄沉正如轉珠之狀也沉爲藏氣故曰純隂翕爲府氣故曰正陽滑者隂陽氣不爲偏勝也關尺自平陽明脉㣲沉者當陽部見隂脉則隂偏勝而陽不足也陽明胃脉胃中隂多故食飲自可少隂脉㣲滑者當隂部見陽脉則陽偏勝而隂不足也以陽湊隂分故曰隂實股與隂少隂之部也今陽熱湊隂必熏發津液泄逹於外股内汗岀而隂下濕也問曰曽爲人所難緊脉從何而來師曰假令亡汗若吐以肺裏寒故令脉緊也假令欬者坐飲冷水故令脉緊也假令下利以胃中虚冷故令脉緊也金匱要畧曰寒令脉急經曰諸緊爲寒寸口衞氣盛名曰高高者暴狂而肥内經曰隂不勝其陽則脉流薄疾并乃狂衞爲陽氣衞盛而暴狂者隂不勝陽也鍼經曰衞氣者所以温分肉充皮毛肥腠理司開闔者也衞氣盛爲肥者氣盛於外也榮氣盛名曰章章者暴澤而光榮者血也榮華於身者也榮盛故身暴光澤也高章相搏名曰綱綱者身筋急脉直榮衞俱盛則筋絡滿急衞氣弱名曰惵惵者心中氣動迫怯衞岀上焦弱則上虚而心中氣動迫怯也榮氣弱名曰卑卑者心中常自羞愧鍼經曰血者神氣也血弱則神弱故常自羞愧惵卑相搏名曰損損者五藏六府之虚惙也衞以護陽榮以養隂榮衞俱虚則五藏六府失於滋養致俱乏氣虚惙也衞氣和名曰緩緩者四肢不能自収衞氣獨和不與榮氣相諧則榮病内經曰目受血而能視足受血而能歩掌受血而能握指受血而能攝四肢不収由榮血病不能灌養故也榮氣和名曰遲遲者身體重但欲眠也榮氣獨和不與衞氣相諧則衞病身體重而眼欲眠者衞病而氣不敷布也遲緩相搏名曰沉沉者腰中直腹内急痛但欲卧不欲行榮氣獨和於内衞氣獨和於外榮衞不相和諧相搏而爲病腰中直者衞不利於外也腹内痛者榮不和於内也但欲卧不欲行者榮衞不營也寸口脉緩而遲緩則陽氣長其色鮮其顔光其聲啇毛髮長遲則隂氣盛骨髓生血滿肌肉緊薄鮮鞕隂陽相抱榮衞俱行剛柔相搏名曰強也緩爲胃脉胃合衞氣衞温分肉充皮毛肥腠理司開闔衞和氣舒則顔色光潤聲清毛澤矣遲爲脾脉脾合榮氣榮養骨髓實肌肉濡筋絡利關節榮和血滿則骨正髓生肌肉緊硬矣隂陽調和二氣相抱而不相戾榮衞流通剛柔相得是爲強壯趺陽脉滑而緊滑者胃氣實緊者脾氣強持實撃強痛還自傷以手把刃坐作瘡也趺陽之脉以候脾胃滑則榖氣實是爲胃實緊則隂氣勝是爲脾強以脾胃一實一強而相搏撃故令痛也若一強一弱相搏則不能作痛此脾胃兩各強實相撃府臟自傷而痛譬若以手把刃而成瘡豈非自貽其害乎寸口脉浮而大浮爲虚大爲實在尺爲關在寸爲格關則不得小便格則吐逆經曰浮爲虛内經曰大則病進浮則爲正氣虚大則爲邪氣實在尺則邪氣關閉下焦裏氣不得下通故不得小便在寸則邪氣格拒上焦使食不得入故吐逆趺陽脉伏而濇伏則吐逆水榖不化濇則食不得入名曰關格伏則胃氣伏而不宣中焦關格正氣壅塞故吐逆而水榖不化濇則脾氣濇而不布邪氣拒于上焦故食不得入脉浮而大浮爲風虛大爲氣強風氣相搏必成病丙穩禾疹身體爲痒痒者名泄風乆乆爲痂癩痂癩者眉少髮稀身有乾瘡而醒臭内經曰脉風成厲寸口脉弱而遲弱者衞氣微遲者榮中寒榮爲血血寒則發熱衞爲氣氣微者心内飢飢而虚滿不能食也衞爲陽榮爲隂弱者衞氣㣲陽氣不足也遲者榮中寒經中客邪也榮客寒邪搏而發熱也陽氣内㣲心内雖飢飢而虚滿不能食也趺陽脉大而緊者當即下利爲難治大爲虚緊爲寒胃中虚寒當即下利下利脉當㣲小反緊者邪勝也故云難治經曰下利脉大者爲未止寸口脉弱而緩弱者陽氣不足緩者胃氣有餘噫而吞酸食卒不下氣填於膈上也弱者陽氣不足陽能消榖陽氣不足則不能消化榖食緩者胃氣有餘則胃中有未消榖物也故使噫而吞酸食卒不下氣填於膈上也金匱要畧曰中焦未和不能消榖故令噫趺陽脉緊而浮浮爲氣緊爲寒浮爲腹滿緊爲絞痛浮緊相搏膓鳴而轉轉即氣動膈氣乃下少隂脉不岀其隂腫大而虚也浮爲胃氣虚緊爲脾中寒胃虚則滿脾寒則痛虚寒相搏膓鳴而轉轉則膈中之氣因而下泄也若少隂脉不岀則虚寒之氣至於下焦結於少隂而聚於隂噐不得發泄使隂腫大而虚也寸口脉㣲而濇㣲者衞氣不行濇者榮氣不足榮衞不能相將三焦無所仰身體痺不仁榮氣不足則煩疼口難言衞氣虚則惡寒數欠三焦不歸其部上焦不歸者噫而酢吞中焦不歸者不能消榖引食下焦不歸者則遺溲人養三焦者血也護三焦者氣也榮衞俱損不能相將而行三焦無所依仰身體爲之頑痺而不仁内經曰榮氣虚而不仁鍼經曰衞氣不行則爲不仁榮爲血血不足則煩疼榮属心榮弱心虚則口難言衞爲陽陽㣲則惡寒衞爲氣氣虚則數欠三焦因榮衞不足無所依仰其氣不能歸其部金匱要畧曰上焦竭善噫上焦受中焦氣中焦未和不能消榖故令噫耳下焦竭即遺溺失便以上焦在膈上物未化之分也不歸者不至也上焦之氣不至其部則物未能傳化故噫而酢吞中焦在胃之中主腐熟水榖水榖化則思食中焦之食不歸其部則水榖不化故云不能消榖引食下焦在膀胱上口主分别清濁溲小便也下焦不歸其部不能約制溲便故遺溲趺陽脉沉而數沉爲實數消榖緊者病難治沉爲實者沉主裏也數消榖者數爲熱也緊爲肝脉見於脾部木來剋土爲鬼賊相刑故云難治寸口脉㣲而濇㣲者衞氣衰濇者榮氣不足衞氣衰靣色黃榮氣不足靣色青榮爲根衞爲葉榮衞俱㣲則根葉枯槁而寒慄欬逆唾腥吐涎沫也衞爲氣靣色黃者衞氣衰也榮爲血靣色青者榮血衰也榮行脉中爲根衞行脉外爲葉榮爲隂衞爲陽榮爲根衞爲葉根葉俱㣲則隂陽之氣内衰致生寒慄而欬逆唾腥吐涎沫也趺陽脉浮而芤浮者衞氣衰芤者榮氣傷其身體痩肌肉甲錯浮芤相搏宗氣衰㣲四属㫁絶經曰衞氣盛名曰高高者暴狂而肥榮氣盛名曰章章者暴澤而光其身體痩而不肥者衞氣衰也肌肉甲錯而不澤者榮氣傷也宗氣者三焦歸氣也四属者皮肉脂髓也榮衞衰傷則宗氣亦㣲四属失所滋養致㫁絶矣寸口脉㣲而緩㣲者衞氣踈踈則其膚空緩者胃氣實實則榖消而水化也榖入於胃脉道乃行而入於經其血乃成榮盛則其膚必踈三焦絶經名曰血崩衞爲陽㣲爲亡陽脉㣲者衞氣踈衞温分肉肥腠理衞氣旣踈皮膚不得温肥則空虚也經曰緩者胃氣有餘有餘爲實故云緩者胃氣實内經曰食入於胃淫精於脉是榖入於胃脉道乃行也鍼經曰飲而液滲於絡合和於血是水入於經其血乃成也胃中榖消水化而爲血氣今衞踈榮盛是榮氣強而衞氣弱也衞氣弱者外則不能固宻皮膚而謂之氣踈内則不能衞護其血而血爲之崩經常也三焦者氣之道路衞氣踈則氣不循常度三焦絶其常度也趺陽脉㣲而緊緊爲寒㣲則爲虚㣲緊相搏則爲短氣中虚且寒氣自短矣少隂脉弱而濇弱者㣲煩濇者厥逆煩者熱也少隂脉弱者隂虚也隂虚則發熱以隂部見陽脉非大虚也故生㣲煩厥逆者四肢冷也經曰隂陽不相順接便爲厥厥者手足厥冷是也少隂脉濇者隂氣濇不能與陽相順相接故厥逆也趺陽脉不出脾不上下身冷膚鞕脾胃爲榮衞之根脾能上下則水榖消磨榮衞之氣得以行脾氣虚衰不能上下則榮衞之氣不得通營於外故趺陽脉不岀身冷者衞氣不温也膚鞕者榮血不濡也少隂脉不至腎氣㣲少精血奔氣促迫上入胸膈宗氣反聚血結心下陽氣退下熱歸隂股與隂相動令身不仁此爲尸厥當刺期門巨闕尸厥者爲其從厥而生形無所知其狀若尸故名尸厥少隂脉不出則厥氣客於腎而腎氣㣲少精血厥氣上奔填塞胸膈壅遏陽氣使宗氣反聚而血結心下鍼經曰五榖入於胃其糟粕津液宗氣分爲三隧宗氣積於胸中岀於喉嚨以貫心脉而行呼吸又曰榮氣者必其津液注之於脉化而爲血以營四末今厥氣大甚宗氣反聚而不行則絶其呼吸血結心下而不流則四體不仁陽氣爲厥氣所擁不能宣發退下至隂股間與隂相動仁者柔也不仁者言不柔和也爲寒熱痛痒俱不覺知者也陽氣外不爲使内不得通榮衞俱不能行身體不仁狀若尸也内經曰厥氣上行滿脉去形刺期門者以通心下結血刺巨闕者以行胸中宗氣血氣流通厥氣退則甦矣寸口脉㣲尺脉緊其人虛損多汗知隂常在絶不見陽也寸㣲爲亡陽尺緊爲隂勝陽㣲隂勝故云虛損又加之多汗則愈損陽氣是隂常在而絶不見陽也寸口諸㣲亡陽諸濡亡血諸弱發熱諸緊爲寒諸乘寒者則爲厥欝冐不仁以胃無榖氣脾濇不通口急不能言戰而慄也衞陽也㣲爲衞氣㣲故云亡陽榮血也濡爲榮氣弱故云亡血弱爲隂虚虚則發熱緊爲隂勝故爲寒諸乘寒者則隂陽俱虚而爲寒邪乘之也寒乘氣虚抑伏陽氣不得宣發遂成厥也欝冐爲昏冐不知人也不仁爲強直而無覺也爲尸厥焉以胃無榖氣致脾濇不通於上下故使口急不能言戰者寒在表也慄者寒在裏也問曰濡弱何以反適十一頭師曰五臟六腑相乘故令十一濡弱者氣血也徃反有十一頭頭者五臟六腑共有十一也問曰何以知乘腑何以知乘臟師曰諸陽浮數爲乘腑諸隂遲濇爲乘臟也腑陽也陽脉見者爲乘腑也臟陰也隂脉見者爲乘臟也釋音見音現下同讝職廉切病人寐而自語也劇竭㦸切甚也鞕音硬下同灑淅上所下切下音析寒驚皃惡烏路切呴香句切噓氣徃來也濡汝朱切潤也闔音合噪子到切動也藹於盖切瞥匹㓕切縈於營切駃音夬疾皃痞音備而濡音軟柔也轉索上株戀切下蘇各切濈阻立切汗岀和也趺音夫腐音府爛也燥蘇到切乾也噫乙界切爍式灼切溲所留切弱也漐直立切俠音恊又音夾黧力攴切色黑而黄也䭇音噎義同􅎪於月切逆氣也衂女六切慄音栗懼皃邪中音衆溷胡困切濁亂也拂欝上音佛下音熨癰於容切嗢乙骨切嗢咽也豚徒渾切盍音合圊七情切厠也湫子由切又子小切齗魚斤切麋音迷悍胡旦切眥靜計切參差上初簮切下楚冝切銓七全切銖音殊滀音畜水聚也其差楚懈切呻音申卵音盧管切嚨力公切喉嚨也菽音叔豆也勁居正切徤也淖奴教切覆芳救切牝藏上毗忍切下本浪切隂藏也瘍以羊切僵仆上音薑下音副翕奄上音吸下音掩見陽音現股音古脾也惵徒頰切動惧皃諧音鞋和也戾音利痂癩上音加下力代切噫烏介切酢音醋冒音㡌昏冒也芤苦侯切註解傷寒論卷第一終}
   back: []
-hash: sha256:9f972502c1a2fd88e3d93955fbb4e7bf93289b65bf41f3fbb29e599a19d817a9
+hash: sha256:aec337d91deb642eec2781c52e984679a5bb3174a48666e6e66fa90c60183800
