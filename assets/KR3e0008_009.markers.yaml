@@ -107,6 +107,7 @@ markers:
   - {type: punctuation, offset: 126, content: 、, id: KR3e0008_CHANT_009-bkkpn32}
   - {type: punctuation, offset: 127, content: 、, id: KR3e0008_CHANT_009-bkkpn33}
   - {type: punctuation, offset: 129, content: 、, id: KR3e0008_CHANT_009-bkkpn34}
+  - {type: substitution, offset: 130, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 131, content: ，, id: KR3e0008_CHANT_009-bkkpn35}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3e0008_CHANT_009-3a.11}
   - {type: punctuation, offset: 133, content: ，, id: KR3e0008_CHANT_009-bkkpn36}
@@ -196,4 +197,4 @@ markers:
   - {type: punctuation, offset: 241, content: 。, id: KR3e0008_CHANT_009-bkkpn60}
   - {type: xml-element, offset: 241, content: '', id: KR3e0008_CHANT_009-bkkxmlele20}
   back: []
-hash: sha256:0d2dc5dae0b3fa037c9602075b15acf2e13245c9fa0b35748f212a821a337ad0
+hash: sha256:85173225e930112c1b566f7ec67a5d14bf67f2dbbea7287659c64211e9ec5424

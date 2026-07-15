@@ -29,6 +29,7 @@ markers:
   - {type: variant, offset: 22, length: 1, content: 如, krp: ''}
   - {type: punctuation, offset: 23, content: ？, id: KR3e0008_CHANT_007-bkkpn6}
   - {type: 'tls:seg', offset: 23, content: '', id: KR3e0008_CHANT_007-1a.6}
+  - {type: substitution, offset: 23, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 25, content: ：, id: KR3e0008_CHANT_007-bkkpn7}
   - {type: 'tls:seg', offset: 25, content: '', id: KR3e0008_CHANT_007-1a.7}
   - {type: variant, offset: 25, length: 9, content: 按之痛寸脈浮關脈沉, SBCK: 嘔􅄍而利}
@@ -203,6 +204,7 @@ markers:
   - {type: 'tls:seg', offset: 223, content: '', id: KR3e0008_CHANT_007-4a.8}
   - {type: variant, offset: 223, length: 17, content: 別搗甘遂末壹錢匕白蜜二合水二升煮取, SBCK: 服湯後如食頃飲􅀬粥}
   - {type: variant, offset: 223, length: 17, content: 別搗甘遂末壹錢匕白蜜二合水二升煮取, krp: 服湯後如食頃飲熱粥}
+  - {type: substitution, offset: 228, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
   - {type: punctuation, offset: 231, content: ，, id: KR3e0008_CHANT_007-bkkpn58}
   - {type: 'tls:seg', offset: 231, content: '', id: KR3e0008_CHANT_007-4a.9}
   - {type: punctuation, offset: 235, content: ，, id: KR3e0008_CHANT_007-bkkpn59}
@@ -1760,6 +1762,7 @@ markers:
   - {type: punctuation, offset: 2672, content: ，, id: KR3e0008_CHANT_007-bkkpn638}
   - {type: 'tls:seg', offset: 2672, content: '', id: KR3e0008_CHANT_007-46a.15}
   - {type: variant, offset: 2672, length: 1, content: 宜, krp: 此與第六卷厥隂門}
+  - {type: substitution, offset: 2674, original: 蔕, replacement: 蒂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17433}}
   - {type: punctuation, offset: 2676, content: 。, id: KR3e0008_CHANT_007-bkkpn639}
   - {type: xml-element, offset: 2676, content: '', id: KR3e0008_CHANT_007-bkkxmlele148}
   - {type: xml-element, offset: 2676, content: '', id: KR3e0008_CHANT_007-bkkxmlele149}
@@ -1767,10 +1770,12 @@ markers:
   - {type: 'tls:seg', offset: 2676, content: '', id: KR3e0008_CHANT_007-47a.2}
   - {type: variant, offset: 2676, length: 0, content: '', krp: 證同彼云脉乍緊此云脉乍結惟此有異緊爲内實乍緊則實未深是邪在胷中結爲結實乍結則結未深是邪在胷中所以證治俱同也釋音拒音巨抑也函音含又音咸書函􅑩音荒目不明也腕音管胃府也竭渠孽切盡也蔕音帝}
   - {type: variant, offset: 2677, length: 106, content: 蔕散方瓜蔕一分熬黃味苦寒赤小豆一分味酸溫右二味各別搗篩為散已合治之取一錢匕以香豉一合用熱湯七合煮作稀糜去滓取汁和散溫頓服之不吐者少少加得快吐乃止諸亡血虛家不可與瓜蔕散病脅下素有痞連在臍傍痛引少腹入陰筋者此名藏結死, krp: 帝也註解}
+  - {type: substitution, offset: 2677, original: 蔕, replacement: 蒂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17433}}
   - {type: punctuation, offset: 2680, content: ：, id: KR3e0008_CHANT_007-bkkpn640}
   - {type: xml-element, offset: 2680, content: '', id: KR3e0008_CHANT_007-bkkxmlele150}
   - {type: xml-element, offset: 2680, content: '', id: KR3e0008_CHANT_007-bkkxmlele151}
   - {type: 'tls:seg', offset: 2680, content: '', id: KR3e0008_CHANT_007-47a.3}
+  - {type: substitution, offset: 2681, original: 蔕, replacement: 蒂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17433}}
   - {type: punctuation, offset: 2684, content: ，, id: KR3e0008_CHANT_007-bkkpn641}
   - {type: 'tls:seg', offset: 2684, content: '', id: KR3e0008_CHANT_007-47a.4}
   - {type: punctuation, offset: 2686, content: ，, id: KR3e0008_CHANT_007-bkkpn642}
@@ -1811,6 +1816,7 @@ markers:
   - {type: 'tls:seg', offset: 2744, content: '', id: KR3e0008_CHANT_007-47a.21}
   - {type: punctuation, offset: 2749, content: 。, id: KR3e0008_CHANT_007-bkkpn659}
   - {type: 'tls:seg', offset: 2749, content: '', id: KR3e0008_CHANT_007-47a.22}
+  - {type: substitution, offset: 2758, original: 蔕, replacement: 蒂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17433}}
   - {type: punctuation, offset: 2760, content: 。, id: KR3e0008_CHANT_007-bkkpn660}
   - {type: xml-element, offset: 2760, content: '', id: KR3e0008_CHANT_007-bkkxmlele154}
   - {type: xml-element, offset: 2760, content: '', id: KR3e0008_CHANT_007-bkkxmlele155}
@@ -2039,6 +2045,7 @@ markers:
   - {type: 'tls:seg', offset: 3130, content: '', id: KR3e0008_CHANT_007-54a.13}
   - {type: punctuation, offset: 3134, content: ，, id: KR3e0008_CHANT_007-bkkpn755}
   - {type: 'tls:seg', offset: 3134, content: '', id: KR3e0008_CHANT_007-54a.14}
+  - {type: substitution, offset: 3138, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17222}}
   - {type: punctuation, offset: 3140, content: ，, id: KR3e0008_CHANT_007-bkkpn756}
   - {type: 'tls:seg', offset: 3140, content: '', id: KR3e0008_CHANT_007-54a.15}
   - {type: punctuation, offset: 3147, content: 。, id: KR3e0008_CHANT_007-bkkpn757}
@@ -2314,6 +2321,7 @@ markers:
   - {type: 'tls:seg', offset: 3551, content: '', id: KR3e0008_CHANT_007-62a.7}
   - {type: punctuation, offset: 3553, content: ，, id: KR3e0008_CHANT_007-bkkpn873}
   - {type: 'tls:seg', offset: 3553, content: '', id: KR3e0008_CHANT_007-62a.8}
+  - {type: substitution, offset: 3555, original: 烊, replacement: 煬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20405}}
   - {type: punctuation, offset: 3558, content: ，, id: KR3e0008_CHANT_007-bkkpn874}
   - {type: 'tls:seg', offset: 3558, content: '', id: KR3e0008_CHANT_007-62a.9}
   - {type: punctuation, offset: 3562, content: ，, id: KR3e0008_CHANT_007-bkkpn875}
@@ -2354,4 +2362,4 @@ markers:
   - {type: punctuation, offset: 3633, content: 。, id: KR3e0008_CHANT_007-bkkpn891}
   - {type: xml-element, offset: 3633, content: '', id: KR3e0008_CHANT_007-bkkxmlele216}
   back: []
-hash: sha256:9e3fbb2b2a50ceb049b9c0b997b302a8a0770f6fbd610c4b785d3d6e0e673699
+hash: sha256:9311c107df0bfea61410f288edf351e9034acd254d51055e1be33abffefb0dab
