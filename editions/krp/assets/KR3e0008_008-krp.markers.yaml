@@ -1376,12 +1376,15 @@ markers:
       ', id: KR3e0008_krp_008-bkkkrnewl271}
   - {type: line-break, offset: 3897, content: '', id: KR3e0008_SBCK_008-13a08}
   - {type: punctuation, offset: 3898, content: (, id: KR3e0008_krp_008-bkkpn1}
+  - {type: voice, offset: 3898, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 3901, content: /, id: KR3e0008_krp_008-bkkpn2}
   - {type: punctuation, offset: 3903, content: ), id: KR3e0008_krp_008-bkkpn3}
   - {type: punctuation, offset: 3904, content: (, id: KR3e0008_krp_008-bkkpn4}
+  - {type: voice, offset: 3904, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 3907, content: /, id: KR3e0008_krp_008-bkkpn5}
   - {type: punctuation, offset: 3909, content: ), id: KR3e0008_krp_008-bkkpn6}
   - {type: punctuation, offset: 3911, content: (, id: KR3e0008_krp_008-bkkpn7}
+  - {type: voice, offset: 3911, length: 14, name: note, id: n3}
   - {type: punctuation, offset: 3918, content: /, id: KR3e0008_krp_008-bkkpn8}
   - {type: punctuation, offset: 3925, content: ), id: KR3e0008_krp_008-bkkpn9}
   - {type: 'kr:newline', offset: 3925, content: '
@@ -1390,9 +1393,11 @@ markers:
   - {type: line-break, offset: 3925, content: '', id: KR3e0008_SBCK_008-13a09}
   - {type: indent, offset: 3925, content: 　, id: KR3e0008_krp_008-bkkind120}
   - {type: punctuation, offset: 3926, content: (, id: KR3e0008_krp_008-bkkpn10}
+  - {type: voice, offset: 3926, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 3929, content: /, id: KR3e0008_krp_008-bkkpn11}
   - {type: punctuation, offset: 3932, content: ), id: KR3e0008_krp_008-bkkpn12}
   - {type: punctuation, offset: 3934, content: (, id: KR3e0008_krp_008-bkkpn13}
+  - {type: voice, offset: 3934, length: 9, name: note, id: n5}
   - {type: punctuation, offset: 3939, content: /, id: KR3e0008_krp_008-bkkpn14}
   - {type: punctuation, offset: 3943, content: ), id: KR3e0008_krp_008-bkkpn15}
   - {type: 'kr:newline', offset: 3943, content: '
@@ -1410,4 +1415,4 @@ markers:
 
       ', id: KR3e0008_krp_008-bkkkrnewl276}
   back: []
-hash: sha256:07712461025a75dfb1db1a251591052e61e38ba44ae4624b4650cfb1fdd5dcb2
+hash: sha256:8a452623a38bddb3e5242fb19e4ba816aed2b5ef728fc55be7a0579a8bab0cce
